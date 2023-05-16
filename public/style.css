@@ -1,0 +1,43 @@
+  /* body{
+    padding: 10px;
+  } */
+  #language{
+    padding-left:10px;
+    width:200px;
+    font-size:13px;
+  }
+  .content{
+      padding-top:10px;
+  }
+  .adminer-content{
+      padding-left:20px;
+      height:60px;
+  }
+  ul li{
+    list-style-type:none;
+  }
+  a{
+    text-decoration:none;
+    color: blue;
+  }
+
+  a:hover{
+    text-decoration:underline;
+    color:red;
+  }
+  .db-select{
+    padding:20px;
+  }
+  #select-database{
+    width:200px;
+  }
+  table, th, td{
+    padding: 10 !important;
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+  }
+
+  input {
+      margin: 0.4rem;
+  }
